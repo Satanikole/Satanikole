@@ -4,6 +4,8 @@
 ## Known as **Satanik** ~~by the voices in my head and internet people~~ I'm currently a fullstack developer **student** at [Trybe](https://www.linkedin.com/school/betrybe/) 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats)
+
 ### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) ~~the ninja academy~~ programming school:  
 #### 🍃 Genin level, the basics of development:
  - ✔️ Unix and Bash
@@ -45,5 +47,10 @@
 <img alt="Git" src="https://img.icons8.com/nolan/26/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
  <!-- I got most of the icons from <a href="https://icons8.com"></a> -->
