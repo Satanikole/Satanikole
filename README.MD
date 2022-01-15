@@ -4,7 +4,7 @@
 ## Known as **Satanik** ~~by the voices in my head and internet people~~ I'm currently a fullstack developer **student** at [Trybe](https://www.linkedin.com/school/betrybe/) 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats) -->
 
 ### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) ~~the ninja academy~~ programming school:  
 #### 🍃 Genin level, the basics of development:
@@ -51,6 +51,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ -->
  <!-- I got most of the icons from <a href="https://icons8.com"></a> -->
