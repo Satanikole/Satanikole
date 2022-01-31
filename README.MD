@@ -43,12 +43,12 @@
  
  ### 👩‍💻 Skills I developed by myself:
  <br>
- #### 🖥️ Tech coursed at Alura:
+  #### 🖥️ Tech courses at Alura: 
  - 🎀 React styled components
  - 🔍 SEO
  - 🇼 Worpress templates with Elementor
  - 🇼 Worpress personalized templates
- - 🐱‍💻 Javascript for Back-end
+ - 🐱‍💻 Javascript for Back-end 
 
  ### 📱 Contact and social media 📱: 
  <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" /></a>
