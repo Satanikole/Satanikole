@@ -42,8 +42,7 @@
  <br>
  
  ### 👩‍💻 Skills I developed by myself:
- <br>
-  #### 🖥️ Tech courses at Alura: 
+#### 🖥️ Tech courses at Alura: 
  - 🎀 React styled components
  - 🔍 SEO
  - 🇼 Worpress templates with Elementor
