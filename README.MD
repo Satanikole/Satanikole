@@ -16,7 +16,15 @@
  - ✔️ Javascript
  - ✔️ Api consumption
  #### Chunin level, frontend: 
- - ✔️ React
+ - ✔️ React componenets
+ - ✔️ React events and forms
+ - ✔️ React Router
+ - ✔️ React Componenets lifecycle 
+ - ✔️ Agile methoods
+ - ✔️ React testing library 
+ - ❌ React redux
+ - ❌ Context api
+ - ❌ React Hooks 
  #### 🍃 Jonin level, backend:
  - ❌ Docker
  - ❌ SQL
@@ -32,6 +40,15 @@
  - ❌ Data structuring 
  <br>
  <br>
+ 
+ ### 👩‍💻 Skills I developed by myself:
+ <br>
+ #### 🖥️ Tech coursed at Alura:
+  - React styled components
+  - SEO 
+  - Worpress templates with Elementor
+  - Worpress personalized templates
+  - Javascript for Back-end
 
  ### 📱 Contact and social media 📱: 
  <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" /></a>
@@ -51,6 +68,6 @@
 <br>
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
  <!-- I got most of the icons from <a href="https://icons8.com"></a> -->
