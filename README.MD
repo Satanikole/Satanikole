@@ -4,7 +4,7 @@
 ## Known as **Satanik** ~~by the voices in my head and internet people~~ I'm currently a fullstack developer **student** at [Trybe](https://www.linkedin.com/school/betrybe/) 
 <br>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats)
 
 ### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) ~~the ninja academy~~ programming school:  
 #### 🍃 Genin level, the basics of development:
@@ -50,19 +50,22 @@
  - 🐱‍💻 Javascript for Back-end 
 
  ### 📱 Contact and social media 📱: 
- <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" /></a>
- <a href="https://t.me/Satanik_Calderari" target="_blank"><img src="https://img.icons8.com/ios-filled/26/000000/telegram-app.png" /></a>
- <a href="mailto:nicole_calderari@hotmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/24/000000/email-open.png" /></a>
+ <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/nolan/26/linkedin.png"/></a>
+ <a href="https://t.me/Satanik_Calderari" target="_blank"><img src="https://img.icons8.com/nolan/26/telegram-app.png"/></a>
+ <a href="mailto:nicole_calderari@hotmail.com" target="_blank"><img src="https://img.icons8.com/nolan/26/email-open.png"/></a>
 
 
-### 🏗️ Languages and tools: 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Git" src="https://img.icons8.com/nolan/26/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🏗️ Languages, frameworks and tools: 
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/nolan/26/visual-studio-2019.png"/>
+<img align="left" alt="Javascript" src="https://img.icons8.com/nolan/26/javascript.png"/>
+<img align="left" alt="HTML5" src="https://img.icons8.com/nolan/26/html-5.png"/>
+<img align="left" alt="CSS3" src="https://img.icons8.com/nolan/26/css-filetype.png"/>
+<img align="left" alt="React" src="https://img.icons8.com/nolan/26/react-native.png"/>
+<img align="left" alt="Git" src="https://img.icons8.com/nolan/26/git.png"/>
+<img align="left" alt="GitHub" src="https://img.icons8.com/nolan/26/github.png"/>
+<img align="left" alt="Terminal" src="https://img.icons8.com/nolan/26/console.png"/>
+<img align="left" alt="Game Maker Studio 2" src="https://img.icons8.com/nolan/26/game-maker.png"/>
+
 <br>
 <br>
 <br>
