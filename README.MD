@@ -50,22 +50,22 @@
  - 🐱‍💻 Javascript for Back-end 
 
  ### 📱 Contact and social media 📱: 
- <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/nolan/26/linkedin.png"/></a>
- <a href="https://t.me/Satanik_Calderari" target="_blank"><img src="https://img.icons8.com/nolan/26/telegram-app.png"/></a>
- <a href="mailto:nicole_calderari@hotmail.com" target="_blank"><img src="https://img.icons8.com/nolan/26/email-open.png"/></a>
+ <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/nolan/30/linkedin.png"/></a>
+ <a href="https://t.me/Satanik_Calderari" target="_blank"><img src="https://img.icons8.com/nolan/30/telegram-app.png"/></a>
+ <a href="mailto:nicole_calderari@hotmail.com" target="_blank"><img src="https://img.icons8.com/nolan/30/email-open.png"/></a>
 
 
 ### 🏗️ Languages, frameworks and tools: 
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/nolan/26/visual-studio-2019.png"/>
-<img align="left" alt="Javascript" src="https://img.icons8.com/nolan/26/javascript.png"/>
-<img align="left" alt="HTML5" src="https://img.icons8.com/nolan/26/html-5.png"/>
-<img align="left" alt="CSS3" src="https://img.icons8.com/nolan/26/css-filetype.png"/>
-<img align="left" alt="React" src="https://img.icons8.com/nolan/26/react-native.png"/>
-<img align="left" alt="Git" src="https://img.icons8.com/nolan/26/git.png"/>
-<img align="left" alt="GitHub" src="https://img.icons8.com/nolan/26/github.png"/>
-<img align="left" alt="Terminal" src="https://img.icons8.com/nolan/26/console.png"/>
-<img align="left" alt="Game Maker Studio 2" src="https://img.icons8.com/nolan/26/game-maker.png"/>
-<img align="left" alt="API" src="https://img.icons8.com/nolan/26/api-settings.png"/>
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/nolan/30/visual-studio-2019.png"/>
+<img align="left" alt="Javascript" src="https://img.icons8.com/nolan/30/javascript.png"/>
+<img align="left" alt="HTML5" src="https://img.icons8.com/nolan/30/html-5.png"/>
+<img align="left" alt="CSS3" src="https://img.icons8.com/nolan/30/css-filetype.png"/>
+<img align="left" alt="React" src="https://img.icons8.com/nolan/30/react-native.png"/>
+<img align="left" alt="Git" src="https://img.icons8.com/nolan/30/git.png"/>
+<img align="left" alt="GitHub" src="https://img.icons8.com/nolan/30/github.png"/>
+<img align="left" alt="Terminal" src="https://img.icons8.com/nolan/30/console.png"/>
+<img align="left" alt="Game Maker Studio 2" src="https://img.icons8.com/nolan/30/game-maker.png"/>
+<img align="left" alt="API" src="https://img.icons8.com/nolan/30/api-settings.png"/>
 
 <br>
 <br>
