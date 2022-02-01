@@ -22,22 +22,22 @@
  - ✔️ React Componenets lifecycle 
  - ✔️ Agile methoods
  - ✔️ React testing library 
- - ❌ React redux
- - ❌ Context api
- - ❌ React Hooks 
+ - ⌛ React redux
+ - ⌛ Context api
+ - ⌛ React Hooks 
  #### 🍃 Jonin level, backend:
- - ❌ Docker
- - ❌ SQL
- - ❌ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
- - ❌ Deployment
- - ❌ Typescript
- - ❌ POO and Solid 
- - ❌ MongoDB
- - ❌ VPS CI/CD
+ - ⌛ Docker
+ - ⌛ SQL
+ - ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
+ - ⌛ Deployment
+ - ⌛ Typescript
+ - ⌛ POO and Solid 
+ - ⌛ MongoDB
+ - ⌛ VPS CI/CD
   #### 🍃 Senin level, computer science:
- - ❌ Python
- - ❌ Web Scraping 
- - ❌ Data structuring 
+ - ⌛ Python
+ - ⌛ Web Scraping 
+ - ⌛ Data structuring 
  <br>
  <br>
  
