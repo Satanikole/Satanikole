@@ -65,6 +65,7 @@
 <img align="left" alt="GitHub" src="https://img.icons8.com/nolan/26/github.png"/>
 <img align="left" alt="Terminal" src="https://img.icons8.com/nolan/26/console.png"/>
 <img align="left" alt="Game Maker Studio 2" src="https://img.icons8.com/nolan/26/game-maker.png"/>
+<img align="left" alt="API" src="https://img.icons8.com/nolan/26/api-settings.png"/>
 
 <br>
 <br>
