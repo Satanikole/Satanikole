@@ -22,7 +22,7 @@
  - ✔️ React Componenets lifecycle 
  - ✔️ Agile methoods
  - ✔️ React testing library 
- - ⌛ React redux
+ - ✔️ React redux
  - ⌛ Context api
  - ⌛ React Hooks 
  #### 🍃 Jonin level, backend:
