@@ -44,6 +44,10 @@
  ### 👩‍💻 Skills I developed by myself:
 #### 🖥️ Tech courses at Alura: 
  - 🎀 React styled components
+ - 🪝 React Hooks
+ - ⏱️ React components lifecycle
+ - 🇫 React function components
+ - 📚 React testing Library
  - 🔍 SEO
  - 🇼 Worpress templates with Elementor
  - 🇼 Worpress personalized templates
