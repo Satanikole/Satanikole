@@ -23,8 +23,8 @@
  - ✔️ Agile methoods
  - ✔️ React testing library 
  - ✔️ React redux
- - ⌛ Context api
- - ⌛ React Hooks 
+ - ✔️ Context api
+ - ✔️ React Hooks 
  #### 🍃 Jonin level, backend:
  - ⌛ Docker
  - ⌛ SQL
