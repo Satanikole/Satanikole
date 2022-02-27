@@ -75,6 +75,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satanikole&layout=compact&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
  <!-- I got most of the icons from <a href="https://icons8.com"></a> -->
