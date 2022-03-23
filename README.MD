@@ -28,7 +28,7 @@
  #### 🍃 Jonin level, backend:
  - ⌛ Docker
  - ⌛ SQL
- - ⌛ Node.js (Archtecture: Rest and Restful, ORM and Authentication)
+ - ⌛ Node.js (Architecture: Rest and Restful, ORM and Authentication)
  - ⌛ Deployment
  - ⌛ Typescript
  - ⌛ POO and Solid 
