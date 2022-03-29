@@ -26,7 +26,7 @@
  - ✔️ Context api
  - ✔️ React Hooks 
  #### 🍃 Jonin level, backend:
- - ⌛ Docker
+ - ✔️ Docker
  - ⌛ SQL
  - ⌛ Node.js (Architecture: Rest and Restful, ORM and Authentication)
  - ⌛ Deployment
