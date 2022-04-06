@@ -15,7 +15,7 @@
  - ✔️ CSS 
  - ✔️ Javascript
  - ✔️ Api consumption
- #### Chunin level, frontend: 
+ ####🍃 Chunin level, frontend: 
  - ✔️ React componenets
  - ✔️ React events and forms
  - ✔️ React Router
