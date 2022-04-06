@@ -53,6 +53,7 @@
  - 🇼 Worpress personalized templates
  - 🐱‍💻 Javascript for Back-end 
  - ☕ Java JDK and Eclipse start
+ - 🎲 MySql beginner steps
 
  ### 📱 Contact and social media 📱: 
  <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/nolan/30/linkedin.png"/></a>
