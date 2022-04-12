@@ -15,8 +15,8 @@
  - ✔️ CSS 
  - ✔️ Javascript
  - ✔️ Api consumption
-  <br>
- ####🍃 Chunin level, frontend: 
+
+ #### 🍃 Chunin level, frontend: 
  - ✔️ React componenets
  - ✔️ React events and forms
  - ✔️ React Router
@@ -26,7 +26,7 @@
  - ✔️ React redux
  - ✔️ Context api
  - ✔️ React Hooks 
- <br>
+
  #### 🍃 Jonin level, backend:
  - ✔️ Docker
  - ⌛ SQL
