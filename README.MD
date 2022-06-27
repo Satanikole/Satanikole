@@ -31,15 +31,6 @@
  - ✔️ Docker
  - ✔️ SQL
  - ✔️ Node.js (Architecture: Rest and Restful, ORM and Authentication)
- - ⌛ Deployment
- - ⌛ Typescript
- - ⌛ POO and Solid 
- - ⌛ MongoDB
- - ⌛ VPS CI/CD
-  #### 🍃 Senin level, computer science:
- - ⌛ Python
- - ⌛ Web Scraping 
- - ⌛ Data structuring 
  <br>
  <br>
  
