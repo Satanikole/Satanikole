@@ -1,38 +1,12 @@
 #  🎵 Hello from the other sideeee 🎶 
 <br>
 
-## Known as **Satanik** ~~by the voices in my head and internet people~~ I'm currently a fullstack developer **student** at [Trybe](https://www.linkedin.com/school/betrybe/) 
+## Known as **Satanik** ~~by the voices in my head and internet people~~ I'm currently backend developer
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satanikole&show_icons=true&theme=gotham&count_private=true)](https://github.com/Satanikole/github-readme-stats)
 
-### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) ~~the ninja academy~~ programming school:  
-#### 🍃 Genin level, the basics of development:
- - ✔️ Unix and Bash
- - ✔️ Git and Github
- - ✔️ Markdown ~~of course or I wouldn't be able to write this lol~~ 
- - ✔️ Html
- - ✔️ CSS 
- - ✔️ Javascript
- - ✔️ Api consumption
 
- #### 🍃 Chunin level, frontend: 
- - ✔️ React componenets
- - ✔️ React events and forms
- - ✔️ React Router
- - ✔️ React Componenets lifecycle 
- - ✔️ Agile methoods
- - ✔️ React testing library 
- - ✔️ React redux
- - ✔️ Context api
- - ✔️ React Hooks 
-
- #### 🍃 Jonin level, backend:
- - ✔️ Docker
- - ✔️ SQL
- - ✔️ Node.js (Architecture: Rest and Restful, ORM and Authentication)
- <br>
- <br>
  
  ### 👩‍💻 Skills I developed by myself:
 #### 🖥️ Tech courses at Alura: 
@@ -47,6 +21,15 @@
  - 🐱‍💻 Javascript for Back-end 
  - ☕ Java JDK and Eclipse start
  - 🎲 MySql beginner steps
+
+### 🖥️ Tech skills:
+ - 🎲 BigQuery
+ - 🔍 Observability
+ - 🦫 golang
+ - ☕ Java
+ - 🔍 Data dog
+ - 🎲 Looker
+ - 🔍 Kibana
 
  ### 📱 Contact and social media 📱: 
  <a href="https://www.linkedin.com/in/nicole-calderari/" target="_blank"><img src="https://img.icons8.com/nolan/30/linkedin.png"/></a>
